@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+input {
+    outline: 1px solid green;
+}
+
+body {
+    margin: 10px;
+}
+
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #28a745, #218838);
+}

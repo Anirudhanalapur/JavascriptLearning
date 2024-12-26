@@ -1,0 +1,131 @@
+{
+    "citiesInKarnataka": [
+      {
+        "city": "Bangalore",
+        "pincode": "560001",
+        "district": "Bangalore Urban",
+        "taluka": "Bangalore North"
+      },
+      {
+        "city": "Mysore",
+        "pincode": "570001",
+        "district": "Mysore",
+        "taluka": "Mysore"
+      },
+      {
+        "city": "Hubli",
+        "pincode": "580020",
+        "district": "Dharwad",
+        "taluka": "Hubli"
+      },
+      {
+        "city": "Mangalore",
+        "pincode": "575001",
+        "district": "Dakshina Kannada",
+        "taluka": "Mangalore"
+      },
+      {
+        "city": "Belgaum",
+        "pincode": "590001",
+        "district": "Belgaum",
+        "taluka": "Belgaum"
+      },
+      {
+        "city": "Shimoga",
+        "pincode": "577201",
+        "district": "Shimoga",
+        "taluka": "Shimoga"
+      },
+      {
+        "city": "Udupi",
+        "pincode": "576101",
+        "district": "Udupi",
+        "taluka": "Udupi"
+      },
+      {
+        "city": "Tumkur",
+        "pincode": "572101",
+        "district": "Tumkur",
+        "taluka": "Tumkur"
+      },
+      {
+        "city": "Gulbarga",
+        "pincode": "585101",
+        "district": "Kalaburagi",
+        "taluka": "Gulbarga"
+      },
+      {
+        "city": "Davangere",
+        "pincode": "577001",
+        "district": "Davangere",
+        "taluka": "Davangere"
+      },
+      {
+        "city": "Bellary",
+        "pincode": "583101",
+        "district": "Ballari",
+        "taluka": "Bellary"
+      },
+      {
+        "city": "Chikmagalur",
+        "pincode": "577101",
+        "district": "Chikmagalur",
+        "taluka": "Chikmagalur"
+      },
+      {
+        "city": "Bidar",
+        "pincode": "585401",
+        "district": "Bidar",
+        "taluka": "Bidar"
+      },
+      {
+        "city": "Bijapur",
+        "pincode": "586101",
+        "district": "Bijapur",
+        "taluka": "Bijapur"
+      },
+      {
+        "city": "Chitradurga",
+        "pincode": "577501",
+        "district": "Chitradurga",
+        "taluka": "Chitradurga"
+      },
+      {
+        "city": "Hassan",
+        "pincode": "573201",
+        "district": "Hassan",
+        "taluka": "Hassan"
+      },
+      {
+        "city": "Mandya",
+        "pincode": "571401",
+        "district": "Mandya",
+        "taluka": "Mandya"
+      },
+      {
+        "city": "Raichur",
+        "pincode": "584101",
+        "district": "Raichur",
+        "taluka": "Raichur"
+      },
+      {
+        "city": "Karwar",
+        "pincode": "581301",
+        "district": "Uttara Kannada",
+        "taluka": "Karwar"
+      },
+      {
+        "city": "Kolar",
+        "pincode": "563101",
+        "district": "Kolar",
+        "taluka": "Kolar"
+      },
+      {
+        "city": "Koppal",
+        "pincode": "583231",
+        "district": "Koppal",
+        "taluka": "Koppal"
+      }
+    ]
+  }
+  

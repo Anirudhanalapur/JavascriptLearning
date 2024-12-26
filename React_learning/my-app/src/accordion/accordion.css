@@ -1,0 +1,27 @@
+.title {
+    height: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+    flex-grow: 1; 
+  }
+
+  .accordion-section:hover {
+    background-color: #f17b7b;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    color: rgb(51, 44, 44);
+  }
+
+  .accordion-section {
+    display: flex;
+    border-radius: 5px;
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 10px;
+    border: 1px solid #000;
+    margin: 10px;
+}
