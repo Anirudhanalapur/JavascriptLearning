@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .tracker-container {
+        margin-top: 20px;
+    }
+</style>
+<body>
+    <div>Your daily goal is:<span id="daily_goal"></span>ml</div>
+    <div>You have achieved : <span id="achieved_goal"></span>ml today</div>
+    <section class="tracker-container">
+        <button id="setGoal">SetGoal</button>
+        <input class="set_goal" style="display: none;"/>
+        <button id ="add">
+            Add
+        </button>
+        <input class="add_input" style="display: none;"/>
+    </section>
+    
+</body>
+
+
+<script src="./constructorPattern.js"></script>
+</html>
